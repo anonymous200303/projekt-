@@ -9,6 +9,7 @@ body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
       color: #818181;
+      background-color:black;
   }
   h2 {
       font-size: 24px;
@@ -25,7 +26,7 @@ body {
       margin-bottom: 30px;
   }  
   .jumbotron {
-      background-color: #f4511e;
+      background-color: darkgrey;
       padding: 100px 0px;
       color: #fff;
       
@@ -127,7 +128,7 @@ body {
 border-color: #f4511e;}
   .navbar {
       margin-bottom: 0;
-      background-color: #f4511e;
+      background-color: black;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -198,3 +199,7 @@ border-color: #f4511e;}
 .Ueberschrift{background-color: #f4511e;
 color:white;
 width: 270px;}
+
+.d-block w-100{
+ width: 300 px;
+}
