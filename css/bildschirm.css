@@ -69,9 +69,6 @@ body {
   .carousel-control.right, .carousel-control.left {
       background-image: none;
       color: #f4511e;
-       width: 350;
-       height: 350;
-  transform: Matrix4.translationValues(-350 / 8,0, 0),
       
   }
   .carousel-indicators li {
