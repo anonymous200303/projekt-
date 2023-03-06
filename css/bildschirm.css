@@ -14,8 +14,8 @@ body {
   h2 {
       font-size: 24px;
       text-transform: uppercase;
-      color: #303030;
-      font-weight: 600;
+      color: white;
+      font-weight: 600
       margin-bottom: 30px;
   }
   h4 {
@@ -200,6 +200,9 @@ border-color: #f4511e;}
 color:white;
 width: 270px;}
 
-.d-block w-100{
- width: 300 px;
-}
+ h5 {
+      font-size: 24px;
+      text-transform: uppercase;
+      color:lightgray;
+      font-weight: 600
+      margin-bottom: 30px;
